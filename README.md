@@ -50,27 +50,13 @@ To leverage my expertise in SOC environments, cloud security, and automation to 
 -->
 
 ### SIEM & SOAR
-![Splunk](https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)
-![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white)
-<!--(https://medium.com/@AChube/azure-honeypot-tracking-cyber-attacks-in-real-time-with-microsoft-sentinel-)-->
-![Wazuh](https://img.shields.io/badge/-Wazuh-0047AB?style=for-the-badge&logo=Security&logoColor=white)
-<!--(https://medium.com/@AChube/comprehensive-soc-automation-project-integrating-wazuh-soar-and-thehive-)-->
-![TheHive](https://img.shields.io/badge/-TheHive-FFD700?style=for-the-badge)
-<!--(https://medium.com/@AChube/comprehensive-soc-automation-project-integrating-wazuh-soar-and-thehive-)-->
+![Splunk](https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white) ![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white) <!--(https://medium.com/@AChube/azure-honeypot-tracking-cyber-attacks-in-real-time-with-microsoft-sentinel-)--> ![Wazuh](https://img.shields.io/badge/-Wazuh-0047AB?style=for-the-badge&logo=Security&logoColor=white) <!--(https://medium.com/@AChube/comprehensive-soc-automation-project-integrating-wazuh-soar-and-thehive-)--> ![TheHive](https://img.shields.io/badge/-TheHive-FFD700?style=for-the-badge) <!--(https://medium.com/@AChube/comprehensive-soc-automation-project-integrating-wazuh-soar-and-thehive-)-->
 
 ### Cloud & Networking
-![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
-<!--(https://medium.com/@AChube/azure-honeypot-tracking-cyber-attacks-in-real-time-with-microsoft-sentinel)-->
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white) <!--(https://medium.com/@AChube/azure-honeypot-tracking-cyber-attacks-in-real-time-with-microsoft-sentinel)--> ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white)
 
 ### Operating Systems & Scripting
-![Linux](https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black)
-<!--(https://medium.com/@AChube/overthewire-bandit-walkthrough-a-beginners-path-to-master-linux-and-security-)-->
-![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D4?&style=for-the-badge&logo=Windows&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash_Scripting-4EAA25?&style=for-the-badge&logo=GNU-Bash&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black) <!--(https://medium.com/@AChube/overthewire-bandit-walkthrough-a-beginners-path-to-master-linux-and-security-)--> ![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D4?&style=for-the-badge&logo=Windows&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash_Scripting-4EAA25?&style=for-the-badge&logo=GNU-Bash&logoColor=white)
 
 ### Communication & Collaboration
 <div>
