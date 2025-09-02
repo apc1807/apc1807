@@ -79,7 +79,7 @@ To leverage my expertise in SOC environments, cloud security, and automation to 
 -->
 ## 🎓 Certifications
 [![Security+](https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/earner/earned/badge/58a2d447-afb5-4c56-b0fb-6c1acb233db4)
-[![Google Cybersecurity](https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white)](https://www.credly.com/earner/earned/badge/e5434f75-ecec-4adc-8829-bf2718731c25))
+[![Google Cybersecurity](https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white)](https://www.credly.com/earner/earned/badge/e5434f75-ecec-4adc-8829-bf2718731c25)
 [![CC](https://img.shields.io/badge/CC-FFFFFF?style=for-the-badge&logo=ISC2&logoColor=black)](https://www.credly.com/earner/earned/badge/5c4cb335-a7cc-47a9-918a-130a940e0b7c)
 
 <!-- [![ISO 27001 Lead Auditor](https://img.shields.io/badge/ISO%2027001%3A2022-Lead%20Auditor-6A0DAD?&style=for-the-badge)](https://www.credly.com/badges/002e9428-b53b-4df7-9d00-058ec292009b/public_url) -->
