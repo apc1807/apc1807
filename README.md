@@ -1,35 +1,16 @@
 ## Hi there, I'm Atharv👋
-
-<!--
-**apc1807/apc1807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 Hey there, I'm Madhur
-
-<a href="https://www.linkedin.com/in/madhurh01"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="mailto:madhurhase0@gmail.com"><img src="https://img.shields.io/badge/-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/atharv-chube"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="mailto:atharvchube1807@gmail.com"><img src="https://img.shields.io/badge/-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ---
 
 ## 🛡️ About Me
-I am a **detail-oriented Cybersecurity professional** with hands-on experience in **SOC operations, threat detection, incident response, and cloud security**.  
-Skilled in tools like **Splunk, ELK Stack, Wazuh, Microsoft Sentinel, and TheHive**, I specialize in designing secure systems, automating workflows, and enhancing threat visibility.  
-With a strong background in **security monitoring, compliance (NIST, ISO 27001, SOC2)**, scripting (**Python, PowerShell, Bash**), and networking fundamentals, I have successfully deployed **real-time honeypots**, streamlined incident response, and authored technical documentation that boosts team efficiency and onboarding.
+I am a **Graduate-level cybersecurity professional** with hands-on experience in **threat detection, SIEM operations, and Python-based security automation**. In my recent Project I have set up **honeypot**, to visualizing **attack patterns with KQL** in Microsoft Sentinel, and helped developed security tools to **support SOC workflows**. Skilled  in tools like **Microsoft Sentinel, Wireshark, Nmap, Splunk, ELK Stack and TheHive.** I am excited to help organizations design and secure their systems, automate workflows, and improve threat visibility. Certified in Cybersecurity **(ISC2 CC) and CompTIA Security +** with a proactive, analytical mindset and strong communication skills. Passionate about threat intelligence, incident response, and working collaboratively in high-pressure security environments. 
 
 ---
 
 ## 🎯 Career Objective
-To leverage my expertise in SOC environments, cloud security, and automation to protect organizations from advanced threats, while continuing to expand my skillset in offensive and defensive security.
+To leverage my expertise in SOC environments, cloud security, and automation to protect organizations from advanced threats, while continuing to expand my skillset in offensive and defensive security. With an endgoal of being a CISO at some point.
 
 ---
 
@@ -37,7 +18,7 @@ To leverage my expertise in SOC environments, cloud security, and automation to 
 **Quick Snapshot of My Profile:**
 - **Core Skills:** SOC operations, SIEM (Azure Sentinel, Splunk), SOAR automation, threat analysis, malware lab setup.
 - **Certifications:** CompTIA Security+, Google Cybersecurity, ISC² CC, ISO 27001 Lead Auditor.
-- **Experience:** Built automated SOC workflows, integrated honeypots in Azure, created ISO-aligned detection rules, led technical documentation.
+- **Experience:** Built automated SOC workflows, integrated honeypots in Azure, created ISO-aligned detection rules.
 - **Strengths:** Cross-platform expertise (Linux, Windows Server), cloud security, compliance alignment, KQL & scripting.
 
 ---
@@ -45,20 +26,22 @@ To leverage my expertise in SOC environments, cloud security, and automation to 
 ## 🏆 CTF & Challenges
 | Platform      | Profile |
 |---------------|---------|
-| TryHackMe     | [<img src="https://tryhackme-badges.s3.amazonaws.com/MHase.png" alt="TryHackMe Badge" />](https://tryhackme.com/p/MHase)
+| TryHackMe     | <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3238497" style='border:none;'></iframe>
 | OverTheWire   | [![OverTheWire Badge](https://img.shields.io/badge/-Writeups-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://medium.com/@madhurhase0/overthewire-bandit-walkthrough-a-beginners-path-to-master-linux-and-security-ba1211e60a71) |
 
----
+<!--
 
+---
 ## 🛠️ Skills & Projects
 | Skill                                         | Project Link |
 |-----------------------------------------------|--------------|
-| SOC Automation (Wazuh + SOAR)                 | [Project](https://medium.com/@madhurhase0/comprehensive-soc-automation-project-integrating-wazuh-soar-and-thehive-e9e92f273cd6) |
-| Microsoft Azure & Sentinel Honeypot           | [Project](https://medium.com/@madhurhase0/azure-honeypot-tracking-cyber-attacks-in-real-time-with-microsoft-sentinel-848d5ee5e238) |
-| Linux Scripting & Problem Solving             | [Project](https://medium.com/@madhurhase0/overthewire-bandit-walkthrough-a-beginners-path-to-master-linux-and-security-ba1211e60a71) |
-| ELK Stack SOC Lab with Attack Simulation      | [Project](https://medium.com/@madhurhase0/hands-on-experience-for-entry-level-aspiring-socs-analyst-in-30-days-3ae4bba895a6) |
-| SOAR-EDR-Integration Using Lima-Charlie, Slack & Tines | [Project](https://github.com/MHase00/SOAR-EDR-Integration-Using-Lima-Charlie-Slack-Tines/tree/main) |
+| SOC Automation (Wazuh + SOAR)                 | ------------ |
+| Microsoft Azure & Sentinel Honeypot           | ------done------ |
+| Linux Scripting & Problem Solving             | ------------ |
+| ELK Stack SOC Lab with Attack Simulation      | ------------ |
+| SOAR-EDR-Integration Using Lima-Charlie, Slack & Tines |-----|
 
+---
 ---
 
 ## 🔧 Tools & Technologies
@@ -93,20 +76,40 @@ To leverage my expertise in SOC environments, cloud security, and automation to 
 </details>
 
 ---
-
+-->
 ## 🎓 Certifications
-[![Security+](https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/badges/394f7065-2a2c-4a91-9093-c770838e3f64/public_url)
-[![Google Cybersecurity](https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white)](https://www.credly.com/badges/6401f2de-6cd1-4ba5-8a31-2e5de99957b8/public_url)
+[![Security+](https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/earner/earned/badge/58a2d447-afb5-4c56-b0fb-6c1acb233db4)
+[![Google Cybersecurity](https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white)](https://www.credly.com/earner/earned/badge/e5434f75-ecec-4adc-8829-bf2718731c25))
+
 [![CC](https://img.shields.io/badge/CC-FFFFFF?style=for-the-badge&logo=ISC2&logoColor=black)](https://www.credly.com/badges/0d7c6ec7-861a-4aeb-92bb-935b3586d46d/public_url)
-[![ISO 27001 Lead Auditor](https://img.shields.io/badge/ISO%2027001%3A2022-Lead%20Auditor-6A0DAD?&style=for-the-badge)](https://www.credly.com/badges/002e9428-b53b-4df7-9d00-058ec292009b/public_url)
+<!-- [![ISO 27001 Lead Auditor](https://img.shields.io/badge/ISO%2027001%3A2022-Lead%20Auditor-6A0DAD?&style=for-the-badge)](https://www.credly.com/badges/002e9428-b53b-4df7-9d00-058ec292009b/public_url) -->
 
 ---
 
 ## 📫 Let’s Connect
-- 📧 Email: madhurhase0@gmail.com  
-- 🌐 Medium: [MadhurH](https://medium.com/@madhurhase0)  
-- 💼 LinkedIn: [linkedin.com/in/madhurh01](https://www.linkedin.com/in/madhurh01)  
-
+- 📧 Email: atharvchube1807@gmail.com  
+<!-- 🌐 Medium: [AChube](https://medium.com/@atharvchube)  -->
+- 💼 LinkedIn: [linkedin.com/in/atharv-chube-/](https://www.linkedin.com/in/atharv-chube-/)  
 ---
 
 ⭐ *If my work caught your eye, don’t hesitate to connect or star my projects!*
+
+
+
+<!--
+**apc1807/apc1807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+
