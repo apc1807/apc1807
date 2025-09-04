@@ -31,8 +31,8 @@ To leverage my expertise in SOC environments, cloud security, and automation to 
 
 
 ---
-## 🛠️ Skills & Projects
-| Skill                                         | Project Link |
+## 🛠️ Projects
+| Title                                         | Project Link |
 |-----------------------------------------------|--------------|
 | Port Scanner Tool                | [PortScanX](https://github.com/apc1807/PortScanX)|
 | Screen Recorder Application           | Not Available |
