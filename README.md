@@ -9,10 +9,11 @@ I am a **Cybersecurity professional** with hands- on experience in ** SOC automa
 Skilled in **Microsoft Sentinel, Nmap, Wireshark, Python, KQL, and log analytics**, Strong understanding of frameworks such as NIST 800-53, ISMS, RMF, OWASP, and ISO/IEC standards.
 Successfully deployed a Windows 10 honeypot in Microsoft Azure, capturing 20,000+ unique malicious IPs, and developed interactive threat intelligence dashboards improving detection efficiency by 30%.
 Passionate about securing networks, analyzing threats, and implementing proactive cybersecurity strategies to protect organizational assets.
+
 ---
 
 ## 🎯 Career Objective
-To leverage my expertise in SOC environments, cloud security, and automation to protect organizations from advanced threats, while continuing to expand my skillset in offensive and defensive security. With an endgoal of being a CISO at some point.
+To leverage my expertise in SOC environments, cloud security, and automation to protect organizations from advanced threats, while continuing to expand my skillset in offensive and defensive security. With an endgoal of being a CISO at some point. d
 
 ---
 
