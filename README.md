@@ -16,8 +16,8 @@ To leverage my expertise in SOC environments, cloud security, and automation to 
 
 ## 📌 For Recruiters
 **Quick Snapshot of My Profile:**
-- **Core Skills:** SOC operations, SIEM (Azure Sentinel, Splunk), SOAR automation, threat analysis, malware lab setup.
-- **Certifications:** CompTIA Security+, Google Cybersecurity, ISC² CC, <!-- ISO 27001 Lead Auditor.-->
+- **Core Skills:** SOC operations, SIEM (Azure Sentinel, Splunk), SOAR automation, threat analysis<!--, malware lab setup.-->
+- **Certifications:** CompTIA Security+, Google Cybersecurity, ISC² CC<!--, ISO 27001 Lead Auditor.-->
 - **Experience:** Built automated SOC workflows, integrated honeypots in Azure, created ISO-aligned detection rules.
 - **Strengths:** Cross-platform expertise (Linux, Windows Server), cloud security, compliance alignment, KQL & scripting.
 
