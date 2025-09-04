@@ -13,7 +13,7 @@ Passionate about securing networks, analyzing threats, and implementing proactiv
 ---
 
 ## 🎯 Career Objective
-To leverage my expertise in SOC environments, cloud security, and automation to protect organizations from advanced threats, while continuing to expand my skillset in offensive and defensive security. With an endgoal of being a CISO at some point. d
+To leverage my expertise in SOC environments, cloud security, and automation to protect organizations from advanced threats, while continuing to expand my skillset in offensive and defensive security. With an endgoal of being a CISO at some point.
 
 ---
 
