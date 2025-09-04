@@ -39,8 +39,8 @@ To leverage my expertise in SOC environments, cloud security, and automation to 
 |-----------------------------------------------|--------------|
 | Port Scanner Tool                | [PortScanX](https://github.com/apc1807/PortScanX)|
 | Screen Recorder Application           | Not Available |
-<!--| Linux Scripting & Problem Solving             | ------------ |
-| ELK Stack SOC Lab with Attack Simulation      | ------------ |
+| Payroll Management Website             | Not Available |
+<!--| ELK Stack SOC Lab with Attack Simulation      | ------------ |
 | SOAR-EDR-Integration Using Lima-Charlie, Slack & Tines |-----|
 
 ---
