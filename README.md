@@ -5,8 +5,10 @@
 ---
 
 ## 🛡️ About Me
-I am a **Graduate-level cybersecurity professional** with hands-on experience in **threat detection, SIEM operations, and Python-based security automation**. In my recent Project I have set up **honeypot**, to visualizing **attack patterns with KQL** in Microsoft Sentinel, and helped developed security tools to **support SOC workflows**. Skilled  in tools like **Microsoft Sentinel, Wireshark, Nmap, Splunk, ELK Stack and TheHive.** I am excited to help organizations design and secure their systems, automate workflows, and improve threat visibility. Certified in Cybersecurity **(ISC2 CC) and CompTIA Security +** with a proactive, analytical mindset and strong communication skills. Passionate about threat intelligence, incident response, and working collaboratively in high-pressure security environments. 
-
+Cybersecurity professional with a Master’s in Cybersecurity from Stevens Institute of Technology and a Bachelor’s in Computer Science. Experienced in deploying honeypots, threat detection, risk assessment, and vulnerability management.
+Skilled in Microsoft Sentinel, Nmap, Wireshark, Python, KQL, and log analytics. Strong understanding of frameworks such as NIST 800-53, ISMS, RMF, OWASP, and ISO/IEC standards.
+Successfully deployed a Windows 10 honeypot in Microsoft Azure, capturing 20,000+ unique malicious IPs, and developed interactive threat intelligence dashboards improving detection efficiency by 30%.
+Passionate about securing networks, analyzing threats, and implementing proactive cybersecurity strategies to protect organizational assets.
 ---
 
 ## 🎯 Career Objective
