@@ -34,7 +34,7 @@ To leverage my expertise in SOC environments, cloud security, and automation to 
 ## 🛠️ Skills & Projects
 | Skill                                         | Project Link |
 |-----------------------------------------------|--------------|
-| SOC Automation (Wazuh + SOAR)                 | ------------ |
+| PortScanX                 | [------------ ](https://github.com/apc1807/PortScanX)|
 | Microsoft Azure & Sentinel Honeypot           | ------------ |
 | Linux Scripting & Problem Solving             | ------------ |
 | ELK Stack SOC Lab with Attack Simulation      | ------------ |
