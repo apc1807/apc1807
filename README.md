@@ -5,7 +5,7 @@
 ---
 
 ## 🛡️ About Me
-I am a **Cybersecurity professional** with hands- on experience in **SOC automations, threat detection, risk assessment, cloud security, and vulnerability management.**
+I am a **Cybersecurity professional** with hands-on experience in **SOC automations, threat detection, risk assessment, cloud security, and vulnerability management.**
 Skilled in **Microsoft Sentinel, Nmap, Wireshark, Python, KQL, and log analytics**, Strong understanding of frameworks such as NIST 800-53, ISMS, RMF, OWASP, and ISO/IEC standards.
 Successfully deployed a Windows 10 honeypot in Microsoft Azure, capturing 20,000+ unique malicious IPs, and developed interactive threat intelligence dashboards improving detection efficiency by 30%.
 Passionate about securing networks, analyzing threats, and implementing proactive cybersecurity strategies to protect organizational assets.
